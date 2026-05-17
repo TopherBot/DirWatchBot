@@ -1,0 +1,12 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+# Virtual environment
+.venv/
+# Logs
+*.log
+# dotenv files containing secrets (keep locally only)
+.env
